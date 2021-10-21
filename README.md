@@ -1,17 +1,17 @@
 # Hello! I'm Stephane Lapointe ☁️
-<h3 align="center">Principal Azure Architect at GSoft | Microsoft Azure MVP</h3>
+<h3 align="center">Principal Cloud Architect at GSoft | Microsoft Azure MVP</h3>
 
 ## About me
 Stephane (That's me 👋) ([a Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001613)) is born and raised in the Microsoft ecosystem and Azure. I started my career in 1996. Did development for 17 years in various Microsoft programming languages and did DevOps before it was even called that. I started with Azure end of 2011 and stuck with it ever since. The changing reality of the cloud is very exciting and a never-ending area for continuous learning and experiments. 
 
-I am a Principal Azure Architect at [GSoft](https://www.gsoft.com), a Montreal-based software company. I am helping with everything that is Azure related and part of a team that empower teams to craft robust, resilient & scalable software. 🚀
+I am a Principal Cloud Architect at [GSoft](https://www.gsoft.com), a Montreal-based software company. I am helping with everything that is Azure related and part of a team that empower teams to craft robust, resilient & scalable software. 🚀
 
 I love solving problems, helping others, thinking broader and further... this is what drives me. 
 
 ## About me, the tldr;  
 🇨🇦 based in Canada
 🏆 [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001613)  
-🔭 Principal Azure Architect at [GSoft](https://www.gsoft.com)  
+🔭 Principal Cloud Architect at [GSoft](https://www.gsoft.com)  
 📝 Blog at [https://codeisahighway.com](https://codeisahighway.com)
 🐣 Tweet at [@s_lapointe](https://twitter.com/s_lapointe)  
 🎤 Speak at wherever I have a stage and an audience  
