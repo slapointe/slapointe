@@ -23,7 +23,7 @@ I love solving problems, helping others, thinking broader and further... this is
   <a href="https://twitter.com/s_lapointe" style="text-decoration: none;"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/stephanelapointe/" style="text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001613" title="MVP Profile Stephane Lapointe"><img src="https://img.shields.io/badge/MVP-Azure-%231570a6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.gsoft.com" title="GSoft" style="text-decoration: none;"><img src="https://img.shields.io/badge/GSoft-%2357fc55.svg?&style=for-the-badge" /></a>
+  <a href="https://www.gsoft.com" title="GSoft" style="text-decoration: none;"><img src="https://img.shields.io/badge/GSoft-%232c3036.svg?&style=for-the-badge" /></a>
 </p>
 
 ## Github stats
